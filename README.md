@@ -2,7 +2,7 @@
 ## Santa Workshop Tour 2019
 
 ### Link
-https://www.kaggle.com/c/santa-workshop-tour-2019/overview <https://www.kaggle.com/c/santa-workshop-tour-2019/overview>
+https://www.kaggle.com/c/santa-workshop-tour-2019/overview
 
 ### Description
 
